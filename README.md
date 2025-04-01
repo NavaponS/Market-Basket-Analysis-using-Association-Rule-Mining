@@ -28,9 +28,9 @@ The study compares the performance of both algorithms in terms of **processing t
 
 ---
 
-## 🔄 **Data Preprocessing**  
+## 🔄 **Data Preparing**  
 ✔ Collected datasets from **Kaggle**  
-✔ Removed missing and irrelevant transactions  
+✔ Removed irrelevant transactions  
 ✔ Converted data into a suitable format for rule mining  
 
 ---
@@ -39,11 +39,4 @@ The study compares the performance of both algorithms in terms of **processing t
 1️⃣ **Data Preparation** – Cleaning and transforming raw data  
 2️⃣ **Applying Apriori & FP-Growth** – Extracting association rules  
 3️⃣ **Comparing Performance** – Evaluating execution time and memory usage  
-4️⃣ **Business Application** – Using rules for strategic decision-making  
-
----
-
-## 🚀 **How to Run**  
-1️⃣ Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
+4️⃣ **Business** – Using rules for strategic decision-making  
